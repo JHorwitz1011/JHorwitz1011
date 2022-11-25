@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **analog circuit design and networking**
 
-- 👨‍💻 All of my projects are available at [(coming soon)]((coming soon))
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 💬 Ask me about **full stack embedded design, IoT, and 3D printing**
 
